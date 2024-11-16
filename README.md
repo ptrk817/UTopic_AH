@@ -7,7 +7,7 @@ VS Code 안에서 터미널 열기 : Ctrl + ~
 
 저장소 클론 명령 실행 : git clone https://github.com/rlapado/UTopic_AH.git
 
-2. VS Code에서 GitHub 프로젝트 클론하기(1)
+2. VS Code에서 GitHub 프로젝트 클론하기
 
 Cloning into 'UTopic_AH'...
 클론 완성 시
